@@ -539,9 +539,6 @@ input.input100 {
 .icon-bar {
   position: fixed;
   bottom: 30%;
-  -webkit-transform: translateY(50%);
-  -ms-transform: translateY(50%);
-  transform: translateY(50%);
 }
 
 /* Style the icon bar links */
