@@ -13,11 +13,6 @@
     .footer-link:hover {
         color: #fff;
     }
-
-    /* Responsive text sizing */
-    .responsive-text {
-        font-size: clamp(1rem, 2.5vw, 1.25rem);
-    }
 </style>
 
 <div class="min-h-screen bg-black text-gray-100">
@@ -51,12 +46,12 @@
                 <!-- Applied Research Section -->
                 <div id="applied-research" class="bg-gray-800 rounded-lg p-8 shadow-effect transition-transform duration-300">
                     <h2 class="text-2xl font-bold text-gray-100 mb-4">🔬 Applied Research</h2>
-                    <p class="text-gray-400">Turning real-world challenges into cutting-edge solutions. Our projects focus on delivering practical, impactful outcomes.</p>
+                    <p class="text-gray-400">Solving real-world challenges with innovative solutions built on top of fundamental research.</p>
                 </div>
                 <!-- Core Research Section -->
                 <div id="core-research" class="bg-gray-800 rounded-lg p-8 shadow-effect transition-transform duration-300">
                     <h2 class="text-2xl font-bold text-gray-100 mb-4">🔎 Core Research</h2>
-                    <p class="text-gray-400">Uncovering the fundamental truths of the universe through relentless pursuit of knowledge and theoretical advancements.</p>
+                    <p class="text-gray-400">Relentlessly pursuing knowledge to uncover fundamental truths and ground-breaking algorithms.</p>
                 </div>
             </section>
 
