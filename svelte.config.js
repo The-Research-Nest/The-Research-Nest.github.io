@@ -4,7 +4,7 @@ export default {
 	kit: {
 		adapter: adapter(),
 		paths: {
-			base: process.env.NODE_ENV === 'production' ? '/<REPO_NAME>' : ''
+			base: process.env.NODE_ENV === 'production' ? '/the-research-nest.github.io' : ''
 		},
 	}
 };
