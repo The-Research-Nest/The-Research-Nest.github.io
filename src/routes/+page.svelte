@@ -42,16 +42,16 @@
             </section>
 
             <!-- Research Sections -->
-            <section class="mb-12 grid grid-cols-1 md:grid-cols-2 gap-8">
+            <section class="mb-12 grid grid-cols-1 md:grid-cols-2 gap-6">
                 <!-- Applied Research Section -->
-                <div id="applied-research" class="bg-gray-800 rounded-lg p-8 shadow-effect transition-transform duration-300">
+                <div id="applied-research" class="bg-gray-800 rounded-lg p-6 shadow-effect transition-transform duration-300">
                     <h2 class="text-2xl font-bold text-gray-100 mb-4">🔬 Applied Research</h2>
-                    <p class="text-gray-400">Solving real-world challenges with innovative solutions built on top of fundamental research.</p>
+                    <p class="text-gray-400">Solving real-world challenges with innovative solutions built on top of core research.</p>
                 </div>
                 <!-- Core Research Section -->
-                <div id="core-research" class="bg-gray-800 rounded-lg p-8 shadow-effect transition-transform duration-300">
+                <div id="core-research" class="bg-gray-800 rounded-lg p-6 shadow-effect transition-transform duration-300">
                     <h2 class="text-2xl font-bold text-gray-100 mb-4">🔎 Core Research</h2>
-                    <p class="text-gray-400">Relentlessly pursuing knowledge to uncover fundamental truths and ground-breaking algorithms.</p>
+                    <p class="text-gray-400">Relentlessly pursuing knowledge to uncover fundamental truths.</p>
                 </div>
             </section>
 
@@ -59,24 +59,24 @@
             <section id="initiatives" class="mb-12">
                 <h2 class="text-3xl font-semibold mb-4">🚀 Expanding Horizons</h2>
                 <p class="text-lg mb-6">We’re ramping up our content game. Expect a lot more awesomeness:</p>
-                <div class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-8">
-                    <div class="bg-gray-800 rounded-lg p-8 text-center shadow-effect transition-transform duration-300">
+                <div class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-6">
+                    <div class="bg-gray-800 rounded-lg p-6 text-center shadow-effect transition-transform duration-300">
                         <h3 class="text-xl font-semibold mb-2">📝 Tutorials</h3>
                         <p class="text-gray-400">Crystal-clear, step-by-step guides to elevate your skills.</p>
                     </div>
-                    <div class="bg-gray-800 rounded-lg p-8 text-center shadow-effect transition-transform duration-300">
-                        <h3 class="text-xl font-semibold mb-2">💭 News & Commentary</h3>
-                        <p class="text-gray-400">Sharp insights and bold opinions from the frontlines of research.</p>
+                    <div class="bg-gray-800 rounded-lg p-6 text-center shadow-effect transition-transform duration-300">
+                        <h3 class="text-xl font-semibold mb-2">💭 News Commentary</h3>
+                        <p class="text-gray-400">Sharp insights and bold opinions from the frontlines.</p>
                     </div>
-                    <div class="bg-gray-800 rounded-lg p-8 text-center shadow-effect transition-transform duration-300">
+                    <div class="bg-gray-800 rounded-lg p-6 text-center shadow-effect transition-transform duration-300">
                         <h3 class="text-xl font-semibold mb-2">🎙️ Interviews</h3>
                         <p class="text-gray-400">Exclusive conversations with visionaries and trailblazers.</p>
                     </div>
-                    <div class="bg-gray-800 rounded-lg p-8 text-center shadow-effect transition-transform duration-300">
+                    <div class="bg-gray-800 rounded-lg p-6 text-center shadow-effect transition-transform duration-300">
                         <h3 class="text-xl font-semibold mb-2">🔑 Explained</h3>
                         <p class="text-gray-400">Simplifying complex ideas with ease.</p>
                     </div>
-                    <div class="bg-gray-800 rounded-lg p-8 text-center shadow-effect transition-transform duration-300">
+                    <div class="bg-gray-800 rounded-lg p-6 text-center shadow-effect transition-transform duration-300">
                         <h3 class="text-xl font-semibold mb-2">🏫 Bootcamps</h3>
                         <p class="text-gray-400">Quick, smart, hands-on learning experiences.</p>
                     </div>
