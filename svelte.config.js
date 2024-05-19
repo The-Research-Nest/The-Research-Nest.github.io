@@ -8,7 +8,7 @@ export default {
 			fallback: null
 		}),
 		paths: {
-			base: process.env.NODE_ENV === 'production' ? '/the-research-nest.github.io' : ''
+			base: ''
 		},
 	}
 };
