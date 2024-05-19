@@ -21,7 +21,7 @@
         <div class="max-w-7xl mx-auto py-4 px-4 sm:px-6 lg:px-8 flex items-center justify-between">
             <h1 class="text-2xl font-bold text-white">The Research Nest</h1>
             <nav>
-                <ul class="flex space-x-4">
+                <ul class="flex space-x-4 md:space-x-6 lg:space-x-8">
                     <li><a href="#about" class="text-gray-400 hover:text-gray-100 smooth-transition">About</a></li>
                     <li><a href="#applied-research" class="text-gray-400 hover:text-gray-100 smooth-transition">Applied Research</a></li>
                     <li><a href="#core-research" class="text-gray-400 hover:text-gray-100 smooth-transition">Core Research</a></li>
@@ -34,7 +34,7 @@
 
     <!-- Main Content Section -->
     <main>
-        <div class="max-w-4xl mx-auto py-12 sm:px-6 lg:px-8 text-center">
+        <div class="max-w-4xl mx-auto py-12 px-4 sm:px-6 lg:px-8 text-center">
             <!-- Introduction Section -->
             <section id="about" class="mb-12">
                 <h2 class="text-4xl font-bold mb-4">Welcome to TRN 2.0</h2>
