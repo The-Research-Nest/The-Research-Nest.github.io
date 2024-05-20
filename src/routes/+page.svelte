@@ -1,7 +1,7 @@
 <div class="max-w-5xl mx-auto py-12 px-4 sm:px-6 lg:px-8 text-center animate-fade-in">
     <!-- Introduction Section -->
     <section id="about" class="mb-12">
-        <p class="text-2xl mx-auto">Independent Research and Applied Engineering in Computer Science and Technology.</p>
+        <p class="text-xl mx-auto">An independent research and learning group in computer science and applied engineering.</p>
     </section>
 
     <!-- Research Sections -->
@@ -20,7 +20,7 @@
 
     <!-- Initiatives Section -->
     <section id="initiatives" class="mb-12 animate-fade-in">
-        <h2 class="text-3xl font-semibold text-yellow-500 mb-4">🚀 Expanding Horizons with our Medium Publication</h2>
+        <h2 class="text-3xl font-semibold text-yellow-500 mb-4">🚀 Expanding Horizons</h2>
         <p class="text-lg mb-6">We’re ramping up our content game. Expect a lot more awesomeness.</p>
         <div class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-6">
             <div class="bg-stone-900 rounded-lg p-6 text-center shadow-lg transition-transform duration-300 hover:scale-105">
@@ -49,23 +49,23 @@
     <!-- Contact Section -->
     <section id="contact" class="mb-12 animate-fade-in">
         <h2 class="text-3xl font-semibold text-yellow-500 mb-4">Get in Touch</h2>
-        <p class="text-lg">Questions or inquiries? Drop us a line at <a href="mailto:the.research.nest@gmail.com" class="text-blue-400 hover:underline">the.research.nest@gmail.com</a></p>
+        <p class="text-lg">Questions or inquiries? Drop us a line at <a href="mailto:the.research.nest@gmail.com" class="text-yellow-500 hover:underline">the.research.nest@gmail.com</a></p>
     </section>
 </div>
 
 <style>
-@keyframes fadeIn {
-    0% {
-        opacity: 0;
-        transform: translateY(20px);
+    @keyframes fadeIn {
+        0% {
+            opacity: 0;
+            transform: translateY(20px);
+        }
+        100% {
+            opacity: 1;
+            transform: translateY(0);
+        }
     }
-    100% {
-        opacity: 1;
-        transform: translateY(0);
-    }
-}
 
-.animate-fade-in {
-    animation: fadeIn 1s ease-in-out;
-}
+    .animate-fade-in {
+        animation: fadeIn 1s ease-in-out;
+    }
 </style>

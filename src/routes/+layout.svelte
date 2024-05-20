@@ -32,6 +32,7 @@
                 <div class="flex space-x-4">
                     <a href="https://twitter.com/research_nest" class="text-gray-400 hover:text-white transition-colors duration-300">Twitter</a>
                     <a href="https://linkedin.com/company/the-research-nest" class="text-gray-400 hover:text-white transition-colors duration-300">LinkedIn</a>
+                    <a href="https://youtube.com/@theresearchnest?si=b66f0eEK-kRBXjbG" class="text-gray-400 hover:text-white transition-colors duration-300">YouTube</a>
                 </div>
             </div>
         </div>
