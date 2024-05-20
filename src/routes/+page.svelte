@@ -3,6 +3,7 @@
     .smooth-transition {
         transition: all 0.3s ease-in-out;
     }
+    
     /* Footer link styles */
     .footer-link:hover {
         color: #fff;
@@ -50,17 +51,42 @@
     .heading {
         color: #ffcc00;
     }
+
+    /* Responsive adjustments */
+    .header-content {
+        flex-direction: column;
+        align-items: center;
+    }
+
+    .header-content nav {
+        margin-top: 8px;
+    }
+
+    .nav-links {
+        flex-direction: column;
+        gap: 10px;
+    }
+
+    @media (min-width: 640px) {
+        .header-content {
+            flex-direction: row;
+            justify-content: space-between;
+        }
+
+        .nav-links {
+            flex-direction: row;
+            gap: 20px;
+        }
+    }
 </style>
 
 <div class="min-h-screen bg-black text-gray-100">
     <!-- Header Section -->
     <header class="bg-black shadow-md sticky top-0 z-50">
-        <div class="max-w-7xl mx-auto py-4 px-4 sm:px-6 lg:px-8 flex items-center justify-between">
+        <div class="max-w-7xl mx-auto py-4 px-4 sm:px-6 lg:px-8 flex items-center justify-between header-content">
             <h1 class="text-2xl font-bold">The Research Nest</h1>
             <nav>
-                <ul class="flex space-x-4 md:space-x-6 lg:space-x-8">
-                    <!-- <li><a href="/about" class="header-link smooth-transition">About</a></li> -->
-                    <!-- <li><a href="/initiatives" class="header-link smooth-transition">Research</a></li> -->
+                <ul class="flex space-x-4 md:space-x-6 lg:space-x-8 nav-links">
                     <li><a href="https://medium.com/the-research-nest/trn-guest-blogging-2817c4ca31d3" class="header-link smooth-transition">Write With Us</a></li>
                 </ul>
             </nav>
@@ -128,8 +154,8 @@
     <!-- Footer Section -->
     <footer class="bg-black shadow-md mt-12 py-6">
         <div class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
-            <div class="flex justify-between items-center">
-                <div class="text-sm text-gray-400">&copy; 2024 The Research Nest. All rights reserved.</div>
+            <div class="flex flex-col sm:flex-row justify-between items-center">
+                <div class="text-sm text-gray-400 mb-4 sm:mb-0">&copy; 2024 The Research Nest. All rights reserved.</div>
                 <div class="flex space-x-4">
                     <a href="https://twitter.com/research_nest" class="text-gray-400 hover:text-white footer-link">Twitter</a>
                     <a href="https://linkedin.com/company/the-research-nest" class="text-gray-400 hover:text-white footer-link">LinkedIn</a>
