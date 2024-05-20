@@ -1,4 +1,4 @@
-<div class="max-w-5xl mx-auto py-12 px-4 sm:px-6 lg:px-8 text-center animate-fade-in">
+<div class="max-w-4xl mx-auto py-12 px-4 sm:px-6 lg:px-8 text-center animate-fade-in">
     <!-- Introduction Section -->
     <section id="about" class="mb-12">
         <p class="text-xl mx-auto">An independent research and learning group in computer science and applied engineering.</p>
