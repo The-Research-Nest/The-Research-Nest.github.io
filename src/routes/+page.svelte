@@ -59,8 +59,8 @@
             <h1 class="text-2xl font-bold">The Research Nest</h1>
             <nav>
                 <ul class="flex space-x-4 md:space-x-6 lg:space-x-8">
-                    <li><a href="/about" class="header-link smooth-transition">About</a></li>
-                    <li><a href="/initiatives" class="header-link smooth-transition">Research</a></li>
+                    <!-- <li><a href="/about" class="header-link smooth-transition">About</a></li> -->
+                    <!-- <li><a href="/initiatives" class="header-link smooth-transition">Research</a></li> -->
                     <li><a href="https://medium.com/the-research-nest/trn-guest-blogging-2817c4ca31d3" class="header-link smooth-transition">Write With Us</a></li>
                 </ul>
             </nav>
