@@ -1,6 +1,6 @@
 {
   "name": "the-research-nest.github.io",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "private": true,
   "scripts": {
     "dev": "vite dev",
@@ -23,6 +23,7 @@
   "type": "module",
   "dependencies": {
     "@sveltejs/adapter-static": "^3.0.1",
+    "altcss": "^0.0.2",
     "gh-pages": "^6.1.1"
   }
 }
