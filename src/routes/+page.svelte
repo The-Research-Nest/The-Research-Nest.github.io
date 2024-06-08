@@ -49,7 +49,7 @@
                 <td>
                     <div>
                         <div>
-                            <h4>💭 News Commentary</h4>
+                            <h4>💭 Commentary</h4>
                             <p>Sharp insights and bold opinions from the frontlines.</p>
                         </div>
                     </div>
@@ -58,7 +58,7 @@
                     <div>
                         <div>
                             <h4>🎙️ Interviews</h4>
-                            <p>Exclusive conversations with researchers, visionaries and trailblazers.</p>
+                            <p>Exclusive conversations with visionaries and trailblazers.</p>
                         </div>
                     </div>
                 </td>
@@ -66,7 +66,7 @@
                     <div>
                         <div>
                             <h4>🔑 Explained</h4>
-                            <p>Simplifying complex ideas with ease.</p>
+                            <p>Simplifying complex ideas and research concepts with ease.</p>
                         </div>
                     </div>
                 </td>
