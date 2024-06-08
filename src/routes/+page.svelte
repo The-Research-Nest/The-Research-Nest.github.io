@@ -1,5 +1,8 @@
 <h2>The Research Nest</h2>
-<p class="text-xl mx-auto">An independent research and learning group in computer science and applied engineering.</p>
+<p class="text-xl mx-auto">
+    An independent research and learning group in computer science and applied engineering |
+    <a href="https://medium.com/the-research-nest/trn-guest-blogging-2817c4ca31d3" target="_blank" rel="noopener noreferrer">write with us</a>
+</p>
 <hr>
 
 <!-- Research Sections -->
@@ -74,6 +77,7 @@
 
 <!-- Contact Section -->
 <section id="contact">
-    <h3 class="text-3xl font-semibold text-yellow-500 mb-4">Get in Touch</h3>
-    <p class="text-lg">Questions or inquiries? Drop us a line at <a href="mailto:the.research.nest@gmail.com" class="text-yellow-500 hover:underline">the.research.nest@gmail.com</a></p>
+    <h3>Get in Touch</h3>
+    <p>Questions or inquiries? Drop us a line at <a href="mailto:the.research.nest@gmail.com">the.research.nest@gmail.com</a></p>
 </section>
+<br>
