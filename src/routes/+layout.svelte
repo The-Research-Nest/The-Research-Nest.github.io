@@ -9,6 +9,7 @@
     <meta charset="UTF-8">
 </svelte:head>
 
+<body>
 <header>
     <h2>The Research Nest</h2>
     <nav>
@@ -16,7 +17,7 @@
             <summary><p>Menu</p></summary>
             <div>
                 <p><a href="https://medium.com/the-research-nest/trn-guest-blogging-2817c4ca31d3" target="_blank" rel="noopener noreferrer">
-                    Write for Us
+                    Write
                 </a></p>
                 <p><a href="https://medium.com/the-research-nest" target="_blank" rel="noopener noreferrer">
                     Medium
@@ -28,7 +29,7 @@
         </details>
         <div>
             <p><a href="https://medium.com/the-research-nest/trn-guest-blogging-2817c4ca31d3" target="_blank" rel="noopener noreferrer">
-                Write for Us
+                Write
             </a></p>
             <p><a href="https://medium.com/the-research-nest" target="_blank" rel="noopener noreferrer">
                 Medium
@@ -39,5 +40,6 @@
         </div>
     </nav>
 </header>
+</body>
 
 {@render children?.()}

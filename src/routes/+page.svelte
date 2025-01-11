@@ -10,7 +10,7 @@
                     <div id="applied-research">
                         <div>
                             <h4>🔬 Applied Research</h4>
-                            <p>Solving real-world challenges with solutions built on top of core research.</p>
+                            <p>Solving real-world challenges with efficient and scalable solutions built on top of core research.</p>
                         </div>
                     </div>
                 </td>
