@@ -4,9 +4,34 @@
 </script>
 
 <svelte:head>
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>The Research Nest</title>
     <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>The Research Nest - Research Community Platform</title>
+    
+    <!-- Primary Meta Tags -->
+    <meta name="title" content="The Research Nest - Research Community Platform">
+    <meta name="description" content="The Research Nest is a community platform for researchers, academics, and knowledge enthusiasts to share insights, collaborate, and explore research topics.">
+    <meta name="keywords" content="research, academic writing, research community, academic collaboration, research platform">
+    <meta name="author" content="The Research Nest">
+    <meta name="robots" content="index, follow">
+    
+    <!-- Open Graph / Facebook -->
+    <meta property="og:type" content="website">
+    <meta property="og:url" content="https://the-research-nest.github.io/">
+    <meta property="og:title" content="The Research Nest - Research Community Platform">
+    <meta property="og:description" content="The Research Nest is a community platform for researchers, academics, and knowledge enthusiasts to share insights, collaborate, and explore research topics.">
+    <!-- <meta property="og:image" content="[Your OG Image URL]"> -->
+
+    <!-- Twitter -->
+    <meta property="twitter:card" content="summary_large_image">
+    <meta property="twitter:url" content="https://the-research-nest.github.io/">
+    <meta property="twitter:title" content="The Research Nest - Research Community Platform">
+    <meta property="twitter:description" content="The Research Nest is a community platform for researchers, academics, and knowledge enthusiasts to share insights, collaborate, and explore research topics.">
+    <!-- <meta property="twitter:image" content="[Your Twitter Card Image URL]"> -->
+
+    <!-- Favicon -->
+    <!-- <link rel="icon" type="image/x-icon" href="/favicon.ico"> -->
+    <link rel="canonical" href="https://the-research-nest.github.io/">
 </svelte:head>
 
 <body>
